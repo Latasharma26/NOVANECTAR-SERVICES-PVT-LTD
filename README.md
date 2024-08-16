@@ -1,5 +1,4 @@
 # NOVANECTAR-SERVICES-PVT-LTD
-Task 1 
 # Simple Landing Page
 
 This repository contains the source code for a simple, responsive landing page designed and developed for Novanectar Services Pvt. Ltd.
